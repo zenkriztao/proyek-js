@@ -1,0 +1,17 @@
+{
+  "name": "github-bot",
+  "version": "1.0.0",
+  "description": "A github bot that alters the timestamp for commit messages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shekhar Bhattacharya",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^6.0.1",
+    "moment": "^2.29.1",
+    "random": "^2.2.0",
+    "simple-git": "^2.21.0"
+  }
+}
